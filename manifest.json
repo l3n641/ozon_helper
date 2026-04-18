@@ -1,0 +1,49 @@
+{
+  "manifest_version": 3,
+  "name": "Ozon Internal Tool",
+  "version": "1.0.3",
+  "description": "Ozon 内部自动化插件",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "contextMenus",
+    "tabs",
+    "cookies",
+    "scripting",
+    "activeTab",
+    "storage",
+    "webNavigation"
+  ],
+  "host_permissions": [
+    "https://seller.ozon.ru/*",
+    "https://ozon.ru/*",
+    "https://www.ozon.ru/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://seller.ozon.ru/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "content.js",
+        "page.js",
+        "api.js"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ]
+}

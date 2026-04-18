@@ -1,0 +1,110 @@
+[
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "CEL Standard Extra Small Putian-莆田站",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 995,
+    "template_id": 768,
+    "tpl_dropoff_point_id": 64282,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  },
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "RETS Express Extra Small Putian-晋江站",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 1078,
+    "template_id": 951,
+    "tpl_dropoff_point_id": 36480125,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  },
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "RETS Standard Extra Small Putian-晋江站",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 1079,
+    "template_id": 952,
+    "tpl_dropoff_point_id": 36480126,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  },
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "RETS Economy Extra Small Putian-晋江站",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 1080,
+    "template_id": 953,
+    "tpl_dropoff_point_id": 36480130,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  },
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "CEL Standard Small Putian-莆田",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 1167,
+    "template_id": 1308,
+    "tpl_dropoff_point_id": 24039168,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  },
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "CEL Belarus CEL Belarus Standard Extra Small Putian-莆田站",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 1697,
+    "template_id": 2566,
+    "tpl_dropoff_point_id": 120477685,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  },
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "CEL Kazakhstan CEL Kazakhstan Standard Extra Small Putian-莆田站",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 1698,
+    "template_id": 2572,
+    "tpl_dropoff_point_id": 120477714,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  },
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "GUOO Kazakhstan GUOO Kazakhstan Standard Extra Small Putian-莆田站",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 1700,
+    "template_id": 2551,
+    "tpl_dropoff_point_id": 120477606,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  },
+  {
+    "company_id": 3553334,
+    "warehouse_id": 1020005000686666,
+    "name": "GUOO Belarus GUOO Belarus Standard Extra Small Putian-莆田站",
+    "cutoff": "17:00",
+    "tpl_integration_type": "aggregator",
+    "provider_id": 1699,
+    "template_id": 2545,
+    "tpl_dropoff_point_id": 120477650,
+    "delivery_type_id": 2,
+    "tariff_type": "STANDARD_OZON"
+  }
+]
